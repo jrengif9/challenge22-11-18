@@ -10,10 +10,18 @@
 
 ## Problem description
 
+- Develop the connection to an FTP service.
+- Download the pending XML files in that FTP.
+- Buy them with a local XSD scheme.
+- If the file does not exist, write a log.
+- If the file exists and does not match the XSD write a log.
+- If the file exists and matches the XSD, write a log.
+
+
 ## Installation and configuration
 
 ## How to run the code
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MDcwMzI0N119
+eyJoaXN0b3J5IjpbMTk3MDM5MjQ5NSwxMzQwNzAzMjQ3XX0=
 -->
