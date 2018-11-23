@@ -52,9 +52,10 @@ The XML Schema language is also referred to as XML Schema Definition (XSD). The 
 https://www.youtube.com/watch?v=flpugX8DSvQ
 https://www.youtube.com/watch?v=ALcWnkIznPk
 https://www.w3schools.com/xml/schema_intro.asp
+https://blogs.msdn.microsoft.com/mast/2013/12/12/setting-up-a-passive-ftp-server-in-windows-azure-vm/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTg5NTk0MzIsNjI4NDY2NDcsLTUzOD
-YxNzIxNiwyMDU1NDE2NjAxLDc0MTYxODIzMywxODYzNzE3NjMx
-LC0xMzc4NjQ3NDU4LC0xNDM1MDUzNjI2LDE5NjIzNTA4MDddfQ
-==
+eyJoaXN0b3J5IjpbLTU2OTc0NzMzNSwtMTg5ODk1OTQzMiw2Mj
+g0NjY0NywtNTM4NjE3MjE2LDIwNTU0MTY2MDEsNzQxNjE4MjMz
+LDE4NjM3MTc2MzEsLTEzNzg2NDc0NTgsLTE0MzUwNTM2MjYsMT
+k2MjM1MDgwN119
 -->
