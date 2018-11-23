@@ -6,7 +6,7 @@
 	- [What is FTP used for?](#What-is-FTP-used-for)
 	- [Advantages of using an FTP](#Advantages-of-using-an-FTP)
 - [What is XML?](#What-is-XML)
-- [XSD-Scheme](#XSD-Scheme)
+- [What is XSD Scheme?](#What-is-XSD-Scheme)
 - [References](#References)
 
 ## What is an FTP server?
@@ -38,9 +38,9 @@ We can communicate applications from different platforms regardless of the origi
 XML technology seeks to provide a solution to the expression of structured information in the most abstract and reusable way possible, that the information is structured means that it is composed of well-defined parts and that these parts are composed of other parts. Then you have a tree of pieces of information.
 
 
-## XSD Scheme
+## What is XSD Scheme?
 
-he XML Schema language is also referred to as XML Schema Definition (XSD).The purpose of an XML Schema is to define the legal building blocks of an XML document:
+The XML Schema language is also referred to as XML Schema Definition (XSD). The purpose of an XML Schema is to define the legal building blocks of an XML document:
 
 -   The elements and attributes that can appear in a document.
 -   The number of (and order of) child elements.
@@ -53,7 +53,8 @@ https://www.youtube.com/watch?v=flpugX8DSvQ
 https://www.youtube.com/watch?v=ALcWnkIznPk
 https://www.w3schools.com/xml/schema_intro.asp
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1MTEyNTUsNjI4NDY2NDcsLTUzODYxNz
-IxNiwyMDU1NDE2NjAxLDc0MTYxODIzMywxODYzNzE3NjMxLC0x
-Mzc4NjQ3NDU4LC0xNDM1MDUzNjI2LDE5NjIzNTA4MDddfQ==
+eyJoaXN0b3J5IjpbLTE4OTg5NTk0MzIsNjI4NDY2NDcsLTUzOD
+YxNzIxNiwyMDU1NDE2NjAxLDc0MTYxODIzMywxODYzNzE3NjMx
+LC0xMzc4NjQ3NDU4LC0xNDM1MDUzNjI2LDE5NjIzNTA4MDddfQ
+==
 -->
