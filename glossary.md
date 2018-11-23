@@ -35,7 +35,7 @@ XML is a simple technology that has others around it that complement it and make
 
 We can communicate applications from different platforms regardless of the origin of the data, we could have an application in Linux with a Postgress database and communicate it with another application in windows and database. We transform data into information because it adds a specific meaning and is associated with contexts, for which we have flexibility to structure documents.
 
-
+XML technology seeks to provide a solution to the expression of structured information in the most abstract and reusable way possible, that the information is structured means that it is composed of well-defined parts and that these parts are composed of other parts. Then you have a tree of pieces of information.
 
 
 ## XSD Scheme
@@ -45,7 +45,7 @@ We can communicate applications from different platforms regardless of the origi
 https://www.youtube.com/watch?v=flpugX8DSvQ
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzODYxNzIxNiwyMDU1NDE2NjAxLDc0MT
-YxODIzMywxODYzNzE3NjMxLC0xMzc4NjQ3NDU4LC0xNDM1MDUz
-NjI2LDE5NjIzNTA4MDddfQ==
+eyJoaXN0b3J5IjpbLTE1NTM2MDQ2NjUsLTUzODYxNzIxNiwyMD
+U1NDE2NjAxLDc0MTYxODIzMywxODYzNzE3NjMxLC0xMzc4NjQ3
+NDU4LC0xNDM1MDUzNjI2LDE5NjIzNTA4MDddfQ==
 -->
