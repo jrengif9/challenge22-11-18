@@ -22,6 +22,11 @@ The file transfer protocol in English or its acronym FTP is a network protocol f
 
 ### Advantages of using an FTP
 
+- Upload your website quickly.
+- There are many different ftp clients.
+- Allow to change, create files and directories, change permissions, rename files, delete files.
+- Allows to upload in the background.
+
 ## XML Files
 
 ## XSD Scheme
@@ -29,5 +34,5 @@ The file transfer protocol in English or its acronym FTP is a network protocol f
 ## References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzk3OTEwNzEsMTk2MjM1MDgwN119
+eyJoaXN0b3J5IjpbLTE0MzUwNTM2MjYsMTk2MjM1MDgwN119
 -->
