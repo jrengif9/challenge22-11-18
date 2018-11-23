@@ -53,14 +53,14 @@ The XML Schema language is also referred to as XML Schema Definition (XSD). The 
 
 ## References
 
-https://www.youtube.com/watch?v=flpugX8DSvQ
-https://www.youtube.com/watch?v=ALcWnkIznPk
-https://www.w3schools.com/xml/schema_intro.asp
-https://blogs.msdn.microsoft.com/mast/2013/12/12/setting-up-a-passive-ftp-server-in-windows-azure-vm/
-https://www.geeksforgeeks.org/computer-network-file-transfer-protocol-ftp/
+- https://www.youtube.com/watch?v=flpugX8DSvQ
+- https://www.youtube.com/watch?v=ALcWnkIznPk
+- https://www.w3schools.com/xml/schema_intro.asp
+- https://blogs.msdn.microsoft.com/mast/2013/12/12/setting-up-a-passive-ftp-server-in-windows-azure-vm/
+- https://www.geeksforgeeks.org/computer-network-file-transfer-protocol-ftp/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Mzg2Nzc0NCwtMTg5ODk1OTQzMiw2Mj
-g0NjY0NywtNTM4NjE3MjE2LDIwNTU0MTY2MDEsNzQxNjE4MjMz
-LDE4NjM3MTc2MzEsLTEzNzg2NDc0NTgsLTE0MzUwNTM2MjYsMT
-k2MjM1MDgwN119
+eyJoaXN0b3J5IjpbLTI2MDA3OTgyMSwtMTgzODY3NzQ0LC0xOD
+k4OTU5NDMyLDYyODQ2NjQ3LC01Mzg2MTcyMTYsMjA1NTQxNjYw
+MSw3NDE2MTgyMzMsMTg2MzcxNzYzMSwtMTM3ODY0NzQ1OCwtMT
+QzNTA1MzYyNiwxOTYyMzUwODA3XX0=
 -->
