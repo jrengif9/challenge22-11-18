@@ -40,12 +40,20 @@ XML technology seeks to provide a solution to the expression of structured infor
 
 ## XSD Scheme
 
+he XML Schema language is also referred to as XML Schema Definition (XSD).The purpose of an XML Schema is to define the legal building blocks of an XML document:
+
+-   The elements and attributes that can appear in a document.
+-   The number of (and order of) child elements.
+-   Data types for elements and attributes.
+-   Default and fixed values for elements and attributes.
+
 ## References
 
 https://www.youtube.com/watch?v=flpugX8DSvQ
 https://www.youtube.com/watch?v=ALcWnkIznPk
+https://www.w3schools.com/xml/schema_intro.asp
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI4NDY2NDcsLTUzODYxNzIxNiwyMDU1ND
-E2NjAxLDc0MTYxODIzMywxODYzNzE3NjMxLC0xMzc4NjQ3NDU4
-LC0xNDM1MDUzNjI2LDE5NjIzNTA4MDddfQ==
+eyJoaXN0b3J5IjpbMTQ1MTEyNTUsNjI4NDY2NDcsLTUzODYxNz
+IxNiwyMDU1NDE2NjAxLDc0MTYxODIzMywxODYzNzE3NjMxLC0x
+Mzc4NjQ3NDU4LC0xNDM1MDUzNjI2LDE5NjIzNTA4MDddfQ==
 -->
