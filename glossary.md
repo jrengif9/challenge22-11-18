@@ -13,7 +13,7 @@
 
 The file transfer protocol in English or its acronym FTP is a network protocol for the transfer of files between systems connected to a TCP network, based on the client-server architecture. From a client computer you can connect to a server to download files from or to send files, regardless of the operating system used on each computer. Basically an FTP server, is a server in which we can upload files, download files and is often used to share files in the cloud or can also be used to upload files on a web page.
 
-![](images/FTP.png)
+![Active-Passive](images/FTP.png)
 
 ### What is FTP used for?
 
@@ -28,6 +28,8 @@ The file transfer protocol in English or its acronym FTP is a network protocol f
 - There are many different ftp clients.
 - Allow to change, create files and directories, change permissions, rename files, delete files.
 - Allows to upload in the background.
+
+![Active-Passive](images/FTP.png)
 
 ## What is XML?
 
@@ -57,8 +59,8 @@ https://www.w3schools.com/xml/schema_intro.asp
 https://blogs.msdn.microsoft.com/mast/2013/12/12/setting-up-a-passive-ftp-server-in-windows-azure-vm/
 https://www.geeksforgeeks.org/computer-network-file-transfer-protocol-ftp/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0OTIwOTg5NSwtMTg5ODk1OTQzMiw2Mj
-g0NjY0NywtNTM4NjE3MjE2LDIwNTU0MTY2MDEsNzQxNjE4MjMz
-LDE4NjM3MTc2MzEsLTEzNzg2NDc0NTgsLTE0MzUwNTM2MjYsMT
-k2MjM1MDgwN119
+eyJoaXN0b3J5IjpbODk3NTQ0MTM3LC0xODk4OTU5NDMyLDYyOD
+Q2NjQ3LC01Mzg2MTcyMTYsMjA1NTQxNjYwMSw3NDE2MTgyMzMs
+MTg2MzcxNzYzMSwtMTM3ODY0NzQ1OCwtMTQzNTA1MzYyNiwxOT
+YyMzUwODA3XX0=
 -->
