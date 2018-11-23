@@ -5,7 +5,7 @@
 - [What is an FTP server?](#What-is-an-FTP-server)
 	- [What is FTP used for?](#What-is-FTP-used-for)
 	- [Advantages of using an FTP](#Advantages-of-using-an-FTP)
-- [XML Files](#XML-Files)
+- [What is XML?](#What-is-XML)
 - [XSD-Scheme](#XSD-Scheme)
 - [References](#References)
 
@@ -27,7 +27,7 @@ The file transfer protocol in English or its acronym FTP is a network protocol f
 - Allow to change, create files and directories, change permissions, rename files, delete files.
 - Allows to upload in the background.
 
-## XML Files
+## What is XML?
 
 XML by its acronym in English, is an Extensible Markup Language, is a metacode that allows to define markup languages that are used to store data in a readable form, comes from the SGML language and allows to define the grammar of specific languages to structure large documents . Unlike other languages, XML is compatible with databases, being useful when several applications must communicate with each other or integrate information. XML was not born only for its application on the Internet, but it is proposed as a standard for the exchange of structured information between different platforms, it can be used: in databases, text editors, spreadsheets and almost anything imaginable.
 
@@ -43,9 +43,9 @@ XML technology seeks to provide a solution to the expression of structured infor
 ## References
 
 https://www.youtube.com/watch?v=flpugX8DSvQ
-
+https://www.youtube.com/watch?v=ALcWnkIznPk
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTM2MDQ2NjUsLTUzODYxNzIxNiwyMD
-U1NDE2NjAxLDc0MTYxODIzMywxODYzNzE3NjMxLC0xMzc4NjQ3
-NDU4LC0xNDM1MDUzNjI2LDE5NjIzNTA4MDddfQ==
+eyJoaXN0b3J5IjpbNjI4NDY2NDcsLTUzODYxNzIxNiwyMDU1ND
+E2NjAxLDc0MTYxODIzMywxODYzNzE3NjMxLC0xMzc4NjQ3NDU4
+LC0xNDM1MDUzNjI2LDE5NjIzNTA4MDddfQ==
 -->
