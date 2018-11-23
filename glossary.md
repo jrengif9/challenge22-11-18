@@ -33,6 +33,8 @@ XML by its acronym in English, is an Extensible Markup Language, is a metacode t
 
 
 
+
+
 ## XSD Scheme
 
 ## References
@@ -40,6 +42,7 @@ XML by its acronym in English, is an Extensible Markup Language, is a metacode t
 https://www.youtube.com/watch?v=flpugX8DSvQ
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQxNjE4MjMzLDE4NjM3MTc2MzEsLTEzNz
-g2NDc0NTgsLTE0MzUwNTM2MjYsMTk2MjM1MDgwN119
+eyJoaXN0b3J5IjpbMjA2OTEwNjc4MSw3NDE2MTgyMzMsMTg2Mz
+cxNzYzMSwtMTM3ODY0NzQ1OCwtMTQzNTA1MzYyNiwxOTYyMzUw
+ODA3XX0=
 -->
