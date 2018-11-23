@@ -4,7 +4,7 @@
 
 - [What is an FTP server?](#What-is-an-FTP-server)
 	- [What is FTP used for?](#What-is-FTP-used-for)
-	- dvantages of using an FTP
+	- [Advantages of using an FTP](#Advantages-of-using-an-FTP)
 - [XML Files](#XML-Files)
 - [XSD-Scheme](#XSD-Scheme)
 - [References](#References)
@@ -29,5 +29,5 @@ The file transfer protocol in English or its acronym FTP is a network protocol f
 ## References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjA0OTA0MTYsMTk2MjM1MDgwN119
+eyJoaXN0b3J5IjpbLTIwNzk3OTEwNzEsMTk2MjM1MDgwN119
 -->
