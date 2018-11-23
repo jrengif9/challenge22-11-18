@@ -29,7 +29,7 @@ The file transfer protocol in English or its acronym FTP is a network protocol f
 - Allow to change, create files and directories, change permissions, rename files, delete files.
 - Allows to upload in the background.
 
-![FTP diagram](images/FTP2.jp)
+![FTP diagram](images/FTP2.jpg)
 
 ## What is XML?
 
@@ -59,7 +59,7 @@ https://www.w3schools.com/xml/schema_intro.asp
 https://blogs.msdn.microsoft.com/mast/2013/12/12/setting-up-a-passive-ftp-server-in-windows-azure-vm/
 https://www.geeksforgeeks.org/computer-network-file-transfer-protocol-ftp/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxOTE4NzUxOSwtMTg5ODk1OTQzMiw2Mj
+eyJoaXN0b3J5IjpbLTE4Mzg2Nzc0NCwtMTg5ODk1OTQzMiw2Mj
 g0NjY0NywtNTM4NjE3MjE2LDIwNTU0MTY2MDEsNzQxNjE4MjMz
 LDE4NjM3MTc2MzEsLTEzNzg2NDc0NTgsLTE0MzUwNTM2MjYsMT
 k2MjM1MDgwN119
