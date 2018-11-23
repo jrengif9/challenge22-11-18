@@ -31,7 +31,7 @@ The file transfer protocol in English or its acronym FTP is a network protocol f
 
 XML by its acronym in English, is an Extensible Markup Language, is a metacode that allows to define markup languages that are used to store data in a readable form, comes from the SGML language and allows to define the grammar of specific languages to structure large documents . Unlike other languages, XML is compatible with databases, being useful when several applications must communicate with each other or integrate information. XML was not born only for its application on the Internet, but it is proposed as a standard for the exchange of structured information between different platforms, it can be used: in databases, text editors, spreadsheets and almost anything imaginable.
 
-
+XML is a simple technology that has others around it that complement it and make it much bigger and with much greater possibilities. It has a very important role in the act as it allows the compatibility between systems to share the information in a safe, viable and easy way. Among the advantages of the XML language is that it can be extended, since after being designed and put into production it is possible to extend it with the addition of new tags, so that it can continue to be used without complications. The analyzer is standard, so it is not necessary to create a specific analyzer for each version of its language, this makes possible the use of any of the possible analyzers, thus avoiding bugs and accelerating the development of applications. If a third party decides to use a document created in XML it is easy to understand its structure and process it, it improves the compatibility between applications.
 
 
 
@@ -42,7 +42,7 @@ XML by its acronym in English, is an Extensible Markup Language, is a metacode t
 https://www.youtube.com/watch?v=flpugX8DSvQ
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2OTEwNjc4MSw3NDE2MTgyMzMsMTg2Mz
+eyJoaXN0b3J5IjpbMjA1NTQxNjYwMSw3NDE2MTgyMzMsMTg2Mz
 cxNzYzMSwtMTM3ODY0NzQ1OCwtMTQzNTA1MzYyNiwxOTYyMzUw
 ODA3XX0=
 -->
