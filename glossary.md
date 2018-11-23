@@ -29,6 +29,10 @@ The file transfer protocol in English or its acronym FTP is a network protocol f
 
 ## XML Files
 
+XML for its acronym in English, is an extensible markup language, it is a metacodigo that allows to define trademarks of marks, which is used to store data in a readable form, comes from the SGML language and allows to define the grammar of specific languages to structure large documents , unlike other languages, XML supports databases, being useful when several applications must communicate with each other or integrate information. XML was not born only for its application on the internet, but it is proposed as a standard for exchanging information structured between different platforms, it can be used: in databases, text editors, spreadsheets and almost anything imaginable.
+
+
+
 ## XSD Scheme
 
 ## References
@@ -36,6 +40,6 @@ The file transfer protocol in English or its acronym FTP is a network protocol f
 https://www.youtube.com/watch?v=flpugX8DSvQ
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzg2NDc0NTgsLTE0MzUwNTM2MjYsMT
-k2MjM1MDgwN119
+eyJoaXN0b3J5IjpbMTg2MzcxNzYzMSwtMTM3ODY0NzQ1OCwtMT
+QzNTA1MzYyNiwxOTYyMzUwODA3XX0=
 -->
