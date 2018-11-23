@@ -1,5 +1,7 @@
 # Challenge 22-11-18
 
+**Competitor:** José Orlando Rengifo Caicedo
+
 ## Contents
 
 - [Problem description](#Problem-description)
@@ -13,5 +15,5 @@
 ## How to run the code
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2NzU0MTQ0MV19
+eyJoaXN0b3J5IjpbMTM0MDcwMzI0N119
 -->
