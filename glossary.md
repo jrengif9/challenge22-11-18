@@ -15,7 +15,9 @@ The file transfer protocol in English or its acronym FTP is a network protocol f
 ### What is FTP used for?
 
 - To upload web pages and edit them.
-- 
+- To have your files in the cloud and manage them.
+- To share files.
+- To make backup copies.
 
 ## XML Files
 
@@ -24,5 +26,5 @@ The file transfer protocol in English or its acronym FTP is a network protocol f
 ## References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2NzAxMTE5Ml19
+eyJoaXN0b3J5IjpbMTk2MjM1MDgwN119
 -->
