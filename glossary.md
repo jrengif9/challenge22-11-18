@@ -53,8 +53,9 @@ https://www.youtube.com/watch?v=flpugX8DSvQ
 https://www.youtube.com/watch?v=ALcWnkIznPk
 https://www.w3schools.com/xml/schema_intro.asp
 https://blogs.msdn.microsoft.com/mast/2013/12/12/setting-up-a-passive-ftp-server-in-windows-azure-vm/
+https://www.geeksforgeeks.org/computer-network-file-transfer-protocol-ftp/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2OTc0NzMzNSwtMTg5ODk1OTQzMiw2Mj
+eyJoaXN0b3J5IjpbLTg5MjQ5MjcwNywtMTg5ODk1OTQzMiw2Mj
 g0NjY0NywtNTM4NjE3MjE2LDIwNTU0MTY2MDEsNzQxNjE4MjMz
 LDE4NjM3MTc2MzEsLTEzNzg2NDc0NTgsLTE0MzUwNTM2MjYsMT
 k2MjM1MDgwN119
