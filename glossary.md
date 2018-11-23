@@ -33,6 +33,9 @@ XML by its acronym in English, is an Extensible Markup Language, is a metacode t
 
 XML is a simple technology that has others around it that complement it and make it much bigger and with much greater possibilities. It has a very important role in the act as it allows the compatibility between systems to share the information in a safe, viable and easy way. Among the advantages of the XML language is that it can be extended, since after being designed and put into production it is possible to extend it with the addition of new tags, so that it can continue to be used without complications. The analyzer is standard, so it is not necessary to create a specific analyzer for each version of its language, this makes possible the use of any of the possible analyzers, thus avoiding bugs and accelerating the development of applications. If a third party decides to use a document created in XML it is easy to understand its structure and process it, it improves the compatibility between applications.
 
+We can communicate applications from different platforms regardless of the origin of the data, we could have an application in Linux with a Postgress database and communicate it with another application in windows and database. We transform data into information because it adds a specific meaning and is associated with contexts, for which we have flexibility to structure documents.
+
+
 
 
 ## XSD Scheme
@@ -42,7 +45,7 @@ XML is a simple technology that has others around it that complement it and make
 https://www.youtube.com/watch?v=flpugX8DSvQ
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1NTQxNjYwMSw3NDE2MTgyMzMsMTg2Mz
-cxNzYzMSwtMTM3ODY0NzQ1OCwtMTQzNTA1MzYyNiwxOTYyMzUw
-ODA3XX0=
+eyJoaXN0b3J5IjpbLTUzODYxNzIxNiwyMDU1NDE2NjAxLDc0MT
+YxODIzMywxODYzNzE3NjMxLC0xMzc4NjQ3NDU4LC0xNDM1MDUz
+NjI2LDE5NjIzNTA4MDddfQ==
 -->
