@@ -29,7 +29,7 @@ The file transfer protocol in English or its acronym FTP is a network protocol f
 
 ## XML Files
 
-XML for its acronym in English, is an extensible markup language, it is a metacodigo that allows to define trademarks of marks, which is used to store data in a readable form, comes from the SGML language and allows to define the grammar of specific languages to structure large documents , unlike other languages, XML supports databases, being useful when several applications must communicate with each other or integrate information. XML was not born only for its application on the internet, but it is proposed as a standard for exchanging information structured between different platforms, it can be used: in databases, text editors, spreadsheets and almost anything imaginable.
+XML by its acronym in English, is an Extensible Markup Language, is a metacode that allows to define markup languages that are used to store data in a readable form, comes from the SGML language and allows to define the grammar of specific languages to structure large documents . Unlike other languages, XML is compatible with databases, being useful when several applications must communicate with each other or integrate information. XML was not born only for its application on the Internet, but it is proposed as a standard for the exchange of structured information between different platforms, it can be used: in databases, text editors, spreadsheets and almost anything imaginable.
 
 
 
@@ -40,6 +40,6 @@ XML for its acronym in English, is an extensible markup language, it is a metaco
 https://www.youtube.com/watch?v=flpugX8DSvQ
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2MzcxNzYzMSwtMTM3ODY0NzQ1OCwtMT
-QzNTA1MzYyNiwxOTYyMzUwODA3XX0=
+eyJoaXN0b3J5IjpbNzQxNjE4MjMzLDE4NjM3MTc2MzEsLTEzNz
+g2NDc0NTgsLTE0MzUwNTM2MjYsMTk2MjM1MDgwN119
 -->
